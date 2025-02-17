@@ -75,7 +75,7 @@
 ## 🚀 Projects
 - **AI-Powered Crop Disease Diagnosis App** (CNN-based)
 - **Flutter In-House Projects with LangChain** (for a U.S. company)
-- **PedalPulse** - A global Flutter app for guitar players [Public Repo](https://github.com/tiobi/pedalpulse)
+- **PedalPulse** - A global Flutter app for guitar players **[PedalPulse](https://github.com/tiobi/pedalpulse)**
 - **Korean-Japanese Exchange Student Community Platform**
 
 ---
