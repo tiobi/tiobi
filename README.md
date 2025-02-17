@@ -77,18 +77,23 @@
 ---
 
 ## 🚀 Projects
-![pedalpulse](https://github.com/tiobi/tiobi/blob/main/pedalpulse.png)
 - **[PedalPulse](https://github.com/tiobi/pedalpulse)** - A global Flutter app for guitar players
+![pedalpulse](https://github.com/tiobi/tiobi/blob/main/pedalpulse.png)
+*keywords: Firebase, Clean Architecture, MVVM*
 
-  
+
+- **AI-Powered Crop Disease Diagnosis App** 
 ![nongmin-ttok](https://github.com/tiobi/tiobi/blob/main/nongmin-ttok.png)
-- **AI-Powered Crop Disease Diagnosis App** (CNN-based)
+*keywords: CNN, TensorFlow, AWS
 
-  
-![helper](https://github.com/tiobi/tiobi/blob/main/helper-blurred.png)
+
+
 - **Flutter Back-office Projects with LangChain on Windows** (for a U.S. company)
+![helper](https://github.com/tiobi/tiobi/blob/main/helper-blurred.png)
+*keywords: LangChain, ChatGPT, LLM*
 
-  
+
+
 - **Korean-Japanese Exchange Student Community Platform**
 
 ---
