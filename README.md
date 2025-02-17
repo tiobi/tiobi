@@ -31,7 +31,7 @@
   - Received commercialization funding.
 
 ### **Flutter Developer @ 뮤릭처** (2024.05 - Present)
-- Working on cutting-edge mobile solutions using Flutter.
+- Working on User Friendly Apps using Flutter.
 
 ---
 
