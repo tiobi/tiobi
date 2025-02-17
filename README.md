@@ -47,8 +47,8 @@
 
 ## 🛠 Tech Stack
 
-**See Flutter Dev Patterns and the Packages I use**
-**in [this page](https://github.com/tiobi/pedalpulse)**
+*‼️ See Flutter Dev Patterns and the Packages I use*
+*in [this page](https://github.com/tiobi/pedalpulse) ‼️*
 
 **Languages & Frameworks**
 - **Flutter (Dart), Java (Spring Boot)**
