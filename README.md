@@ -1,4 +1,4 @@
-# Hi, I'm Evan Im (임동혁) 👋
+# Hi, I'm Evan Im 임동혁 🤘🏻
 
 **Mobile App Developer | Startup Enthusiast | Exited Founder**
 
@@ -6,7 +6,7 @@
 
 📍 GitHub: [@tiobi](https://github.com/tiobi)  
 📧 Email: tiobi@naver.com  
-📱 Phone: +82 010 2943 8741  
+📱 Phone: +82 10 2943 8741  
 
 ---
 
@@ -47,6 +47,9 @@
 
 ## 🛠 Tech Stack
 
+**See Flutter Dev Patterns and the Packages I use**
+**in [this page](https://github.com/tiobi/pedalpulse)**
+
 **Languages & Frameworks**
 - **Flutter (Dart), Java (Spring Boot)**
 - **TensorFlow/Keras, LangChain**
@@ -59,6 +62,7 @@
 - **DNN, CNN, YOLO, LLM**
 
 ---
+
 
 ## 📊 Skill Levels
 ```
