@@ -17,7 +17,7 @@
 
 ---
 
-## 🏆 Experience
+## 🏆 Experiences
 
 ### **CEO @ 이시스랩스** (2022.06 - 2024.02)
 - **Sogang University Startup Audition Award (2022.03 - 2022.08)**  
@@ -32,6 +32,7 @@
 
 ### **Flutter Developer @ 뮤릭처** (2024.05 - Present)
 - Working on User Friendly Apps using Flutter.
+- PlanAZ is on the way..
 
 ---
 
