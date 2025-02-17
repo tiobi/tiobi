@@ -84,7 +84,7 @@
 
 - **AI-Powered Crop Disease Diagnosis App** 
 ![nongmin-ttok](https://github.com/tiobi/tiobi/blob/main/nongmin-ttok.png)
-*keywords: CNN, TensorFlow, AWS
+*keywords: CNN, TensorFlow, AWS*
 
 
 
